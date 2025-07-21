@@ -140,4 +140,4 @@ void blinkLED(int times) {
 ## 📸 Preview
 
 <img width="1920" height="848" alt="task3 elcter" src="https://github.com/user-attachments/assets/1754cbeb-4467-4835-b1c2-c1cb434a4d99" />
-> Add a circuit screenshot from Tinkercad or real photo of the setup here.
+
