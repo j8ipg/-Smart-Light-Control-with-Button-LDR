@@ -190,9 +190,16 @@ The following tools and platforms were used:
 - Wires, breadboard, resistors, etc.
 
   ---
+## 🔌 Circuit Diagram:
 
 
 
+<img width="1536" height="640" alt="Fantabulous Juttuli-Albar (1)" src="https://github.com/user-attachments/assets/8c361bf6-7250-4c4d-b240-0ef8946f88b5" />
+
+
+
+
+  ---
 ## Circuit Requirements
 
 Typical connection:
